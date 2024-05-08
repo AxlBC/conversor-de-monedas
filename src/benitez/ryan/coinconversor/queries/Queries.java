@@ -99,6 +99,8 @@ public class Queries {
                 System.out.println((i + 1) + " - " + this.historial.get(i));
             }
             crearDocumentoConHistorial();
+        } else {
+            System.out.println("Historial vacío, aún no se realiza ninguna conversión.");
         }
     }
 
