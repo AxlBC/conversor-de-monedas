@@ -12,6 +12,8 @@ Este proyecto se encuentra actualmente finalizado, sin embargo, no se cierra la 
 
 ### Características de la aplicación
 
- #### Facilidad de uso
+#### Facilidad de uso
 La interfaz de este proyecto es muy simple e intuitiva por lo que el usuario no tendrá problemas para moverse a través de la aplicación además de que la aplicación se encarga de guiar al usuario paso a paso conforme se avanza por ella.
+
+![Menu de la aplicación](https://github.com/AxlBC/conversor-de-monedas/blob/main/images/menu.PNG)
  
