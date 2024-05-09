@@ -27,3 +27,5 @@ Este programa también permite llevar un historial de las conversiones realizada
 
 https://github.com/AxlBC/conversor-de-monedas/assets/62124146/ba929828-b412-4502-8663-bb2bfd9448f6
 
+### Desarrollado por:
+Ryan Axel Benítez Campos - 2024
