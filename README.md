@@ -15,5 +15,15 @@ Este proyecto se encuentra actualmente finalizado, sin embargo, no se cierra la 
 #### Facilidad de uso
 La interfaz de este proyecto es muy simple e intuitiva por lo que el usuario no tendrá problemas para moverse a través de la aplicación además de que la aplicación se encarga de guiar al usuario paso a paso conforme se avanza por ella.
 
-![Menu de la aplicación](https://github.com/AxlBC/conversor-de-monedas/blob/main/images/menu.PNG)
- 
+https://github.com/AxlBC/conversor-de-monedas/assets/62124146/4d78071b-6b44-4164-b261-6bff835bca63
+
+#### Posibilidad de conversiones específicas
+Esta herramienta cuenta con la posiblidad de realizar conversiones en multiples monedas (limitado a monedas latinoamericanas), basta con elegir la opción que permite especificar que moneda quieres convertir y a cual moneda quieres realizar la conversión.
+
+https://github.com/AxlBC/conversor-de-monedas/assets/62124146/079d78f7-d292-47bb-bbe0-1e11d299a111
+
+#### Historial de conversiones
+Este programa también permite llevar un historial de las conversiones realizadas junto a la hora exacta en la que se realizo dicha consulta.
+
+https://github.com/AxlBC/conversor-de-monedas/assets/62124146/ba929828-b412-4502-8663-bb2bfd9448f6
+
